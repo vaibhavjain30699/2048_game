@@ -2,7 +2,6 @@
 # 2048 Game
 
 import random
-
 #Prints the Grid
 def printGrid(grid):
     print ("\n")
