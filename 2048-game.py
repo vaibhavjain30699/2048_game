@@ -43,7 +43,7 @@ def move(grid, dir):
     for i in range(4 - dir): grid = rotate(grid)
     return grid
 
-
+#heeeelllllllllllllllo
 # This adds a random number to the grid
 def addNumber(grid):
     num = random.randint(1, 2) * 2
