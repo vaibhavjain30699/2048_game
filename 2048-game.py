@@ -69,7 +69,7 @@ def checkForMove(grid):
                 return False
 
     return True
-
+#grid is build
 
 # This checks for an empty slot where we can add a number
 def findEmptySlot(grid):
